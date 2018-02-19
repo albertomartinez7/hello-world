@@ -1,3 +1,3 @@
 # hello-world
 repository of my first project
-I am a calm person who is comitted to personal development on mutiple levels such as spiritual, profesional and phisycal ones.
+The present web site was inspired on the old cartoon "Speed Racer" which used to be one of my favorite through my childhood. The project`s main goal is to apply basic knoledge of html, css and knockout which I have recently gained  
